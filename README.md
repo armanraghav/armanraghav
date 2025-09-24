@@ -14,7 +14,7 @@
 
 ###
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Data+Engineer;Cybersecurity+Explorer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full-Stack+Developer;Data+Engineer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
